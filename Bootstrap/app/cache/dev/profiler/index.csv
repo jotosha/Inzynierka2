@@ -77,3 +77,14 @@ aaf3f2,::1,GET,http://localhost/Inzynierka/Bootstrap/web/app_dev.php/StronaGlown
 b2da9d,::1,GET,http://localhost/Inzynierka/Bootstrap/web/app_dev.php/StronaGlowna,1448203365,,200
 ab63ed,::1,GET,http://localhost/Inzynierka/Bootstrap/web/app_dev.php/Login,1448203368,,200
 8508a8,::1,GET,http://localhost/Inzynierka/Bootstrap/web/app_dev.php/Register,1448203370,,200
+ed73f0,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/Login,1448205787,d59a21,200
+d59a21,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/Login,1448205787,,500
+cc86a0,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/StronaGlowna,1448205814,,200
+69255b,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/NoweOgloszenie,1448205816,814f8a,200
+814f8a,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/NoweOgloszenie,1448205816,,500
+a5828a,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/StronaGlowna,1448205832,,200
+842081,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/NoweOgloszenie,1448205834,,200
+acaf70,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/Login,1448205837,,200
+9e6d3f,::1,GET,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/Register,1448205839,,200
+dd82e3,::1,POST,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/Register,1448205864,,200
+56d0d0,::1,POST,http://localhost/Inzynierka2/Bootstrap/web/app_dev.php/Register,1448205870,,200
