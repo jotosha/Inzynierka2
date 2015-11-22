@@ -35,7 +35,11 @@ class Register extends AbstractType
                 'height' => 50,
                 'length' => 6,
                 'invalid_message' => 'The captcha code is invalid.'
-            ));
+            ))
+            ->add('zalozkonto', 'submit',array(
+                'label' => 'Załóż konto'
+            ))
+            ->getForm();
     }
 
 

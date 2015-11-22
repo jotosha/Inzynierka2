@@ -65,6 +65,27 @@ return array (
       ),
     ),
   ),
+  '15e01ef' => 
+  array (
+    0 => 
+    array (
+      0 => '@AppBundle/Resources/css/noweogloszenie.css*',
+    ),
+    1 => 
+    array (
+      0 => 'cssrewrite',
+    ),
+    2 => 
+    array (
+      'output' => '_controller/css/15e01ef.css',
+      'name' => '15e01ef',
+      'debug' => NULL,
+      'combine' => NULL,
+      'vars' => 
+      array (
+      ),
+    ),
+  ),
   '3e238f1' => 
   array (
     0 => 
